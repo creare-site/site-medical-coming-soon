@@ -1,14 +1,18 @@
 {
     "copy"           : "WebsiteMarket. Site Medical - Coming Soon.", 
     "email"          : "hello@WebsiteMarket.ro",
+    "phone"          : "0766612322",
+    "address"        : "Constanta, Romania",
     "design"         : "Eventually by Pixelarity",
 
-    "seo_title"      : "Site Medical - Coming Soon | AppSeed",
-    "seo_desc"       : "Aplicatie JAMstack cu design modern potrivit salilor de medical. Un produs WebsiteMarket",
+    "seo_title"      : "Hosting, Domeniu (RO) si Pagina Coming Soon - Vandut pe eMAG.ro | WebsiteMarket",
+    "seo_desc"       : "Pachet hosting promotional. Un produs WebsiteMarket vandut pe eMAG.ro.",
 
-    "product"        : "https://websitemarket.ro", 
+    "product"        : "https://www.emag.ro/brands/brand/websitemarket", 
     "github"         : "https://github.com/creare-site/site-medical-coming-soon",
     "facebook"       : "https://www.facebook.com/Websitemarketro/",
+    "youtube"        : "https://www.youtube.com/channel/UC-0NiPw917xWfEAfl8SRCfg/videos",
+    "medium"         : "https://medium.com/@websitemarketro",
     "twitter"        : "https://twitter.com/websitemarketro",
     "support"        : "hello@websitemarket.ro",
 
